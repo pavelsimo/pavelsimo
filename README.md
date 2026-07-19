@@ -4,6 +4,7 @@ Now at Bosch Digital, working on Physical AI and XR.
 
 ## Projects
 
+- ⚡ **[cudaforces](https://github.com/pavelsimo/cudaforces)**: A browser-based problemset for learning CUDA through 50 kernel exercises with local GPU judging.
 - 📐 **[shapes](https://github.com/pavelsimo/shapes)**: A lightweight, header-only geometry library for modern C++.
 - 🧰 **[skills](https://github.com/pavelsimo/skills)**: A collection of reusable agent skills for AI-assisted development.
 - 🏗️ **[fascat](https://github.com/pavelsimo/fascat)**: A Python library and CLI that converts CAD files into realtime-ready assets.
